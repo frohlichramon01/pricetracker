@@ -14,6 +14,8 @@ https://developers.google.com/sheets/api/quickstart/python
 
 Last, you need to enter the values for the empty commented variables in the app.py.
 
+IMPORTANTE NOTE:
+Since it uses a while(True) to execute the code, it runs forever, remember that! To stop it, use CTRL+C;
 
 
 PS: This Price Tracker can track two products at the same time.
